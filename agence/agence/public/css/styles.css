@@ -1,0 +1,24 @@
+/* Pour tous les éléments du document */
+body {
+    color: white;
+}
+
+/* Pour un élément spécifique, comme un paragraphe */
+p {
+    color: white;
+}
+
+/* Pour un lien */
+a {
+    color: white;
+}
+
+/* Pour un tableau */
+table {
+    color: white;
+}
+
+/* Pour les cellules de tableau */
+th, td {
+    color: white;
+}
