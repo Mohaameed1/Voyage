@@ -7,23 +7,24 @@ Ce projet est une application web complète permettant aux utilisateurs de reche
 
 ## ✨ Fonctionnalités
 
-- 🔎 Recherche de destinations personnalisées
-- 📅 Réservation en ligne de voyages
-- 🧾 Gestion des réservations par l’utilisateur
-- 📱 Interface utilisateur responsive (mobile-friendly)
-- 🔐 Connexion / Inscription sécurisée (si applicable)
+- 🔎 Recherche de destinations personnalisées  
+- 📅 Réservation en ligne de voyages  
+- 🧾 Gestion des réservations par l’utilisateur  
+- 📱 Interface utilisateur responsive (mobile-friendly)  
+- 🔐 Connexion / Inscription sécurisée (si applicable)  
 
 ---
 
 ## 🛠️ Technologies utilisées
 
-| Langage / Outil     | Description                      |
-|---------------------|----------------------------------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) | Structure des pages |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | Mise en page et design |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | Interactivité côté client |
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) | Logique côté serveur |
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | Base de données relationnelle |
+| Langage / Outil       | Description                      |
+|-----------------------|----------------------------------|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)        | Structure des pages              |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)          | Mise en page et design           |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | Interactivité côté client        |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)             | Logique côté serveur             |
+| ![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white) | Framework PHP utilisé            |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)       | Base de données relationnelle   |
 
 ---
 
@@ -32,6 +33,7 @@ Ce projet est une application web complète permettant aux utilisateurs de reche
 1. 📥 Clonez le dépôt GitHub :
    ```bash
    git clone https://github.com/Mohaameed1/Voyage.git
+
 👨‍💻 Auteur
 Mohaameed1
 
